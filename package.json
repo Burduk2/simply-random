@@ -1,0 +1,12 @@
+{
+  "name": "simply-random",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.cjs",
+  "scripts": {
+    "start": "node main.cjs"
+  },
+  "keywords": [],
+  "author": "ua2",
+  "license": "MIT"
+}
